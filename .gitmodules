@@ -1,0 +1,3 @@
+[submodule "infoglue"]
+	path = infoglue
+	url = git@github.com:bogeblad/infoglue.git
